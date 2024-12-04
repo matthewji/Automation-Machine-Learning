@@ -1,11 +1,12 @@
-# Automation-Machine-Learning
 Automation Machine Learning
 
+Virtual Environment + VR application 
 
-Automation Machine Learning
+for Robot task cloning 
+for Tele Operation 
+for War Robot control / Vision represent (Remote attack) 
 
-I made this repository for the AI Machine Learning Automation 
-
-It can help engineers to save energy and time for the Machine Learning AI development. 
-
+- Realted paper
+- Hardware
+- VR/PC Devices
 
